@@ -1,0 +1,60 @@
+---
+title: "STAC51 Assignment 1"
+author: "Joseph Wang"
+date: "`r Sys.Date()`"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Question 1
+
+## e)
+
+```{r}
+library(binom)
+
+binom.confint(x=5,n=30,conf.level=0.95, methods="all")
+```
+
+# Question 2
+
+## d)
+
+```{r}
+qchisq(0.9, df=1)
+```
+
+## e)
+
+```{r}
+binom.confint(x=5,n=30,conf.level=0.9, methods="lrt")
+```
+
+# Question 4
+
+```{r}
+N = 100000
+n = 25
+pi = 0.06
+count = 0
+for(i in 1:N){
+  z = rbinom(n,1,pi)
+  y = sum(z)
+  pi_hat = y/n
+  
+  l = pi_hat - 1.96*sqrt(pi_hat*(1-pi_hat)/n)
+  t = pi_hat + 1.96*sqrt(pi_hat*(1-pi_hat)/n)
+  
+  if(l<= pi & pi <= t){
+    count = count + 1
+  }
+}
+
+count/N
+
+```
+
+

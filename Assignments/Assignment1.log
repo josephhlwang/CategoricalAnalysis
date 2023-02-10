@@ -1,11 +1,11 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2023.1.20)  28 JAN 2023 22:47
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2023.2.2)  3 FEB 2023 13:09
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**Untitled.tex
-(./Untitled.tex
+**Assignment1.tex
+(./Assignment1.tex
 LaTeX2e <2022-11-01> patch level 1
-L3 programming layer <2023-01-16> (/Users/josephwang/Library/TinyTeX/texmf-dist/tex/latex/base/article.cls
+L3 programming layer <2023-02-01> (/Users/josephwang/Library/TinyTeX/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2022/07/02 v1.4n Standard LaTeX document class
 (/Users/josephwang/Library/TinyTeX/texmf-dist/tex/latex/base/size10.clo
 File: size10.clo 2022/07/02 v1.4n Standard LaTeX file (size option)
@@ -318,8 +318,8 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 28
 File: l3backend-pdftex.def 2023-01-16 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count288
 \l__pdf_internal_box=\box54
-) (./Untitled.aux)
-\openout1 = `Untitled.aux'.
+) (./Assignment1.aux)
+\openout1 = `Assignment1.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 110.
 LaTeX Font Info:    ... okay on input line 110.
@@ -380,9 +380,9 @@ File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 Package hyperref Info: Link coloring OFF on input line 110.
-(./Untitled.out) (./Untitled.out)
+(./Assignment1.out) (./Assignment1.out)
 \@outlinefile=\write4
-\openout4 = `Untitled.out'.
+\openout4 = `Assignment1.out'.
 
 LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 112.
 (/Users/josephwang/Library/TinyTeX/texmf-dist/tex/latex/lm/ot1lmr.fd
@@ -436,48 +436,48 @@ Package amsmath Warning: Foreign command \atopwithdelims;
 LaTeX Font Info:    Font shape `T1/lmtt/bx/n' in size <10> not available
 (Font)              Font shape `T1/lmtt/b/n' tried instead on input line 526.
 [7]
-<Untitled_files/figure-latex/unnamed-chunk-15-1.pdf, id=191, 469.755pt x 325.215pt>
-File: Untitled_files/figure-latex/unnamed-chunk-15-1.pdf Graphic file (type pdf)
-<use Untitled_files/figure-latex/unnamed-chunk-15-1.pdf>
-Package pdftex.def Info: Untitled_files/figure-latex/unnamed-chunk-15-1.pdf  used on input line 643.
+<Assignment1_files/figure-latex/unnamed-chunk-15-1.pdf, id=191, 469.755pt x 325.215pt>
+File: Assignment1_files/figure-latex/unnamed-chunk-15-1.pdf Graphic file (type pdf)
+<use Assignment1_files/figure-latex/unnamed-chunk-15-1.pdf>
+Package pdftex.def Info: Assignment1_files/figure-latex/unnamed-chunk-15-1.pdf  used on input line 643.
 (pdftex.def)             Requested size: 469.75386pt x 325.2142pt.
 [8]
-<Untitled_files/figure-latex/unnamed-chunk-16-1.pdf, id=198, 469.755pt x 325.215pt>
-File: Untitled_files/figure-latex/unnamed-chunk-16-1.pdf Graphic file (type pdf)
-<use Untitled_files/figure-latex/unnamed-chunk-16-1.pdf>
-Package pdftex.def Info: Untitled_files/figure-latex/unnamed-chunk-16-1.pdf  used on input line 675.
+<Assignment1_files/figure-latex/unnamed-chunk-16-1.pdf, id=198, 469.755pt x 325.215pt>
+File: Assignment1_files/figure-latex/unnamed-chunk-16-1.pdf Graphic file (type pdf)
+<use Assignment1_files/figure-latex/unnamed-chunk-16-1.pdf>
+Package pdftex.def Info: Assignment1_files/figure-latex/unnamed-chunk-16-1.pdf  used on input line 675.
 (pdftex.def)             Requested size: 469.75386pt x 325.2142pt.
-[9 <./Untitled_files/figure-latex/unnamed-chunk-15-1.pdf>] [10 <./Untitled_files/figure-latex/unnamed-chunk-16-1.pdf>]
-<Untitled_files/figure-latex/unnamed-chunk-17-1.pdf, id=219, 469.755pt x 325.215pt>
-File: Untitled_files/figure-latex/unnamed-chunk-17-1.pdf Graphic file (type pdf)
-<use Untitled_files/figure-latex/unnamed-chunk-17-1.pdf>
-Package pdftex.def Info: Untitled_files/figure-latex/unnamed-chunk-17-1.pdf  used on input line 761.
+[9 <./Assignment1_files/figure-latex/unnamed-chunk-15-1.pdf>] [10 <./Assignment1_files/figure-latex/unnamed-chunk-16-1.pdf>]
+<Assignment1_files/figure-latex/unnamed-chunk-17-1.pdf, id=219, 469.755pt x 325.215pt>
+File: Assignment1_files/figure-latex/unnamed-chunk-17-1.pdf Graphic file (type pdf)
+<use Assignment1_files/figure-latex/unnamed-chunk-17-1.pdf>
+Package pdftex.def Info: Assignment1_files/figure-latex/unnamed-chunk-17-1.pdf  used on input line 761.
 (pdftex.def)             Requested size: 469.75386pt x 325.2142pt.
 
 Underfull \hbox (badness 10000) in paragraph at lines 761--765
 [][]
  []
 
-[11] [12 <./Untitled_files/figure-latex/unnamed-chunk-17-1.pdf>]
-<Untitled_files/figure-latex/unnamed-chunk-18-1.pdf, id=236, 469.755pt x 325.215pt>
-File: Untitled_files/figure-latex/unnamed-chunk-18-1.pdf Graphic file (type pdf)
-<use Untitled_files/figure-latex/unnamed-chunk-18-1.pdf>
-Package pdftex.def Info: Untitled_files/figure-latex/unnamed-chunk-18-1.pdf  used on input line 803.
+[11] [12 <./Assignment1_files/figure-latex/unnamed-chunk-17-1.pdf>]
+<Assignment1_files/figure-latex/unnamed-chunk-18-1.pdf, id=236, 469.755pt x 325.215pt>
+File: Assignment1_files/figure-latex/unnamed-chunk-18-1.pdf Graphic file (type pdf)
+<use Assignment1_files/figure-latex/unnamed-chunk-18-1.pdf>
+Package pdftex.def Info: Assignment1_files/figure-latex/unnamed-chunk-18-1.pdf  used on input line 803.
 (pdftex.def)             Requested size: 469.75386pt x 325.2142pt.
-[13 <./Untitled_files/figure-latex/unnamed-chunk-18-1.pdf>] [14] (./Untitled.aux)
-Package rerunfilecheck Info: File `Untitled.out' has not changed.
+[13 <./Assignment1_files/figure-latex/unnamed-chunk-18-1.pdf>] [14] (./Assignment1.aux)
+Package rerunfilecheck Info: File `Assignment1.out' has not changed.
 (rerunfilecheck)             Checksum: F7CDB2B6E8DFAFD29803CE9D81046DF1;2175.
  ) 
 Here is how much of TeX's memory you used:
- 11149 strings out of 478051
- 174734 string characters out of 5839675
- 1867330 words of memory out of 5000000
- 31023 multiletter control sequences out of 15000+600000
+ 11149 strings out of 478026
+ 174860 string characters out of 5839160
+ 1867346 words of memory out of 5000000
+ 31048 multiletter control sequences out of 15000+600000
  564035 words of font info for 74 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 75i,10n,76p,1194b,472s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,10n,76p,1197b,472s stack positions out of 10000i,1000n,20000p,200000b,200000s
 {/Users/josephwang/Library/TinyTeX/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}{/Users/josephwang/Library/TinyTeX/texmf-dist/fonts/enc/dvips/lm/lm-mathex.enc}{/Users/josephwang/Library/TinyTeX/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc}{/Users/josephwang/Library/TinyTeX/texmf-dist/fonts/enc/dvips/lm/lm-mathit.enc}{/Users/josephwang/Library/TinyTeX/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc}</Users/josephwang/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmbx10.pfb></Users/josephwang/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmbx12.pfb></Users/josephwang/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmbx7.pfb></Users/josephwang/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmex10.pfb></Users/josephwang/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmmi10.pfb></Users/josephwang/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmmi5.pfb></Users/josephwang/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmmi7.pfb></Users/josephwang/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmr10.pfb></Users/josephwang/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmr12.pfb></Users/josephwang/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmr17.pfb></Users/josephwang/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmr5.pfb></Users/josephwang/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmr7.pfb></Users/josephwang/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmsy10.pfb></Users/josephwang/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmsy5.pfb></Users/josephwang/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmsy7.pfb></Users/josephwang/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmtk10.pfb></Users/josephwang/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmtt10.pfb>
-Output written on Untitled.pdf (14 pages, 326204 bytes).
+Output written on Assignment1.pdf (14 pages, 326835 bytes).
 PDF statistics:
  350 PDF objects out of 1000 (max. 8388607)
  288 compressed objects within 3 object streams
